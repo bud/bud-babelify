@@ -1,0 +1,26 @@
+{
+  "name": "bud-babelify",
+  "version": "0.0.0",
+  "description": "Babelify plugin for Bud",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "bud",
+    "plugin",
+    "babelify",
+    "jsx",
+    "es6"
+  ],
+  "repository": {
+    "url": "git@github.com:bud-plugins/bud-babelify.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "babelify": "^6.3.0",
+    "bud-browserify": "^0.4.2"
+  }
+}
