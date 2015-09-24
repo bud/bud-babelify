@@ -16,3 +16,11 @@ var babelify = require('bud-babelify');
 
 build("dist/build.js", babelify({ entry: "index.js", output: "dist/build.js" }));
 ```
+
+## Options
+
+* entry
+* output
+* options
+* transforms
+* plugins
