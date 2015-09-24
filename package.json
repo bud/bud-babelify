@@ -1,6 +1,6 @@
 {
   "name": "bud-babelify",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Babelify plugin for Bud",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   "license": "BSD",
   "dependencies": {
     "babelify": "^6.3.0",
-    "bud-browserify": "^0.4.2"
+    "bud-browserify": "^0.4.3"
   }
 }
