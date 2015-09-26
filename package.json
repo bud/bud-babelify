@@ -1,6 +1,6 @@
 {
   "name": "bud-babelify",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Babelify plugin for Bud",
   "main": "index.js",
   "scripts": {
