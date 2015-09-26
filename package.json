@@ -21,6 +21,6 @@
   "license": "BSD",
   "dependencies": {
     "babelify": "^6.3.0",
-    "bud-browserify": "^0.4.3"
+    "bud-browserify": "^0.4.x"
   }
 }
