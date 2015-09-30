@@ -1,4 +1,11 @@
-var build = require("bud");
+var task = require("bud");
+var build = task;
 var babelify = require("../");
 
-build('hello-world.js', build.watch("hello-world.jsx"), babelify({ entry: "hello-world.jsx", output: "hello-world.js" }));
+build("build.js", babelify({
+  "entry": "hello-world.jsx",
+  "output": "output.js",
+  "transforms": [],
+  "plugins": [],
+  "watch": true
+}));

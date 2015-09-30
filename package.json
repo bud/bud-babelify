@@ -21,6 +21,7 @@
   "license": "BSD",
   "dependencies": {
     "babelify": "^6.3.0",
-    "bud-browserify": "^0.4.x"
+    "bud-browserify": "^2.0.0",
+    "mix-objects": "0.0.3"
   }
 }
